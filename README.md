@@ -5,7 +5,11 @@ feel free to git clone.
 to run the project in our local machie
  
 1- git clone.
+
+
 2-npm install.
+
+
 3-npm start.
 
 
