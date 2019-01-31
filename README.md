@@ -19,5 +19,15 @@ to run the project in our local machie
 to see this relase in google firbase host : https://sayed-react-project.firebaseapp.com/  
 
 
+you can easy register or use this test account to explor all the project featuers 
+
+
+
+username:test1@test.com
+
+
+password:123456
+
+
 
 
