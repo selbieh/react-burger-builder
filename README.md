@@ -1,5 +1,9 @@
 ﻿Hello;
- my name is sayed Elbieh
+ 
+ my name is Sayed Elbieh i am a free lance devoloper with the python#django and react.js and this is my first project.
+
+ 
+ 
 this is my firtst React-redux-project is called Burger builder .
 the backend data base is created by google-firebase
 feel free to git clone.
