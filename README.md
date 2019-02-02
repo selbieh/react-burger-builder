@@ -1,4 +1,5 @@
-﻿Hello
+﻿Hello;
+ my name is sayed Elbieh
 this is my firtst React-redux-project is called Burger builder .
 the backend data base is created by google-firebase
 feel free to git clone.
